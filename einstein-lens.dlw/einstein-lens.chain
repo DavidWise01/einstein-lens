@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1125
 slug  : einstein-lens
-seal  : b44c8f85e7f76bace37ba697599c51389f45c52e301f638058768f36a87cb906
-prev  : 5204dd68fdc1caa87297bb6caf6713056f2b8525795c8191413e74e12fdb7754
-link  : f7931505bd4572da3cd6dfafbc5e9baf04b9ac130380231ddfd0d0249b1a6d9b
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 98ee5ad79bfe077bf320541577e0f6c93a3d51d627ad2724f4b21621d46a4b86
+prev  : bc25c7697908603c3819a5ca5dfa51b4b8ffa6be52d80eddf4759c28ccb3ae06
+link  : 71b6b8e9c59be86df4b2989c701015f23c235f61c7f9b1b8e041158d5a087e4c
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
